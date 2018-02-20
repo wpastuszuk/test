@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:soapui-workspace name="CP" soapui-version="3.6" xmlns:con="http://eviware.com/soapui/config">
+  <con:settings/>
+  <con:project name="http://om02.prod.wyrocznia.polsatc:8080/om/ws/statusService">D:/VALDI/CP/SoapUI Projekty/http---om02-prod-wyrocznia-polsatc-8080-om-ws-statusService-soapui-project.xml</con:project>
+  <con:project name="om process tasks">D:/VALDI/CP/SoapUI Projekty/om-process-tasks-soapui-project.xml</con:project>
+  <con:project name="om02.prod.wyroczniahttp://om02.prod.wyrocznia.polsatc:8080/om/ws/notification">D:/VALDI/CP/SoapUI Projekty/om02-prod-wyroczniahttp---om02-prod-wyrocznia-polsatc-8080-om-ws-notification-soapui-project.xml</con:project>
+  <con:project name="Order Information Service V6">D:/VALDI/CP/SoapUI Projekty/Order-Information-Service-V6-soapui-project.xml</con:project>
+  <con:project name="order submission">D:/VALDI/CP/SoapUI Projekty/order-submission-soapui-project.xml</con:project>
+  <con:project name="order validate">D:/VALDI/CP/SoapUI Projekty/order-validate-soapui-project.xml</con:project>
+  <con:project name="service mix retention">D:/VALDI/CP/SoapUI Projekty/service-mix-retention-soapui-project.xml</con:project>
+  <con:project name="service mix retention">D:/VALDI/CP/SoapUI Projekty/service-mix-retention-soapui-project2.xml</con:project>
+</con:soapui-workspace>
